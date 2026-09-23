@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix testing-",
+  "description": "Imported from GitHub: davidjz246/testing-",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
